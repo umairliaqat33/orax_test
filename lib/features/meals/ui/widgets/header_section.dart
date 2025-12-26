@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:orax_test/core/common_widgets./asset_view_widget.dart';
+import 'package:orax_test/core/common_widgets/asset_view_widget.dart';
 import 'package:orax_test/core/constants/app_strings.dart';
 import 'package:orax_test/core/constants/colors.dart';
 
